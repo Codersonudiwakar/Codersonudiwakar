@@ -6,7 +6,7 @@ Here's your **modified `README.md` or GitHub profile summary**, tailored using y
 
 🚀 Full-Stack Developer | ☕ Java/Spring Boot Enthusiast | ⚛️ React.js Developer
 
-I'm passionate about building robust web applications with clean backend logic and intuitive frontend interfaces. My expertise spans Java, Spring Boot, React.js, and REST APIs. I've worked on developing banking platforms, AI coding assistants, and project management tools. I recently interned at MBB Labs (Maybank), where I contributed to backend testing and UI fixes in a production-grade fintech environment.
+I'm passionate about building robust web applications with clean backend logic and intuitive frontend interfaces. My expertise spans Java, Spring Boot, React.js, and REST APIs. I've worked on developing banking platforms, AI coding assistants, and project management tools. I recently interned at MBB Labs (Maybank), where I contributed to backend testing and UI fixes in a production-grade fintech environments.
 
 ## 🔧 Technologies & Tools
 
